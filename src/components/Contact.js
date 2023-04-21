@@ -7,8 +7,8 @@ const Contact = () => {
       className="w-full h-screen bg-[#0a192f] flex justify-center items-center p-4"
     >
       <form
-        // method="POST"
-        // action="https://getform.io/f/1c2e2429-97b4-4c9f-bc26-1c4c42162ae2"
+        method="POST"
+        action="https://getform.io/f/1c2e2429-97b4-4c9f-bc26-1c4c42162ae2"
         className="flex flex-col max-w-[600px] w-full"
       >
         <div className="pb-8">
