@@ -135,11 +135,11 @@ const Projects = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React Js Applicaion
+                Pagination(React)
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://github.com/abhi150392/React-Form-Validation"
+                  href="https://github.com/abhi150392/Pagination-React"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold  text-lg">
