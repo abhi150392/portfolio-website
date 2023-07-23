@@ -110,20 +110,25 @@ const Projects = () => {
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Task Tracker App
+                SHopping Cart (Redux tool kit)
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://github.com/abhi150392/Angular-Task-tracker-app"
+                  href="https://github.com/abhi150392/Redux-Toolkit"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold  text-lg">
                     Code
                   </button>
                 </a>
-                {/* <a href="">
-                  <button></button>
-                </a> */}
+                <a
+                  href="https://reduxshoppingcart123.netlify.app/"
+                  target="_blank"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold  text-lg">
+                    Link
+                  </button>
+                </a>
               </div>
             </div>
           </div>
