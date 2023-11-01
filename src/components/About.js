@@ -22,7 +22,7 @@ const About = () => {
               expertise in designing and creating commercial applications as
               well as in enhancing software performance.A strong team player
               with agile development expertisewho enjoys working both
-              individually and in aT eamenvironment with stakeholders,
+              individually and in a Team environment with stakeholders,
               designers.
             </p>
           </div>
